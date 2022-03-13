@@ -1,0 +1,17 @@
+[
+    {
+      "topic": "Atx",
+      "content": "Austin is the best city ever!",
+      "user_id": 50
+    },
+    {
+      "topic": "Htx",
+      "content": "Houston is the best city ever!",
+      "user_id": 10
+    },
+    {
+      "topic": "Stx",
+      "content": "RGV is the best city ever!",
+      "user_id": 80
+    }
+  ]
